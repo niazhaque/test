@@ -1,2 +1,3 @@
 # test
-jenkins testing
+javac HelloWorld.java
+java HelloWorld
